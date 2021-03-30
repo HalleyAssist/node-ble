@@ -34,7 +34,7 @@
     "build": "exit 0"
   },
   "dependencies": {
-    "dbus-next": "^0.9.1"
+    "dbus-next": "git+https://github.com/HalleyAssist/node-dbus-next.git"
   },
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.12.1",
